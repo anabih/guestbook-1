@@ -4,4 +4,4 @@ metadata:
   name:  guestbook
 spec:
   prefix: /httpbin/
-  service: http://httpbin-3.org
+  service: http://httpbin-2.org
